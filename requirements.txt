@@ -4,7 +4,7 @@ bs4==0.0.1
 certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.7
+cryptography==3.2
 dj-database-url==0.5.0
 Django==2.2.4
 django-heroku==0.3.1
