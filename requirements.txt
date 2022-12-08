@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 beautifulsoup4==4.8.0
 bs4==0.0.1
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cryptography==2.7
